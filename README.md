@@ -1,4 +1,4 @@
-# Hi, I'm Cavon 👋
+# I'm Cavon,
 
 Software developer in Suitland, MD, building full-stack web apps with **JavaScript, React, Node/Express, Python and Flask**.
 I'm looking for an entry-level software developer role. I speak English and Spanish.
