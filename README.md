@@ -15,7 +15,7 @@ I'm looking for an entry-level software developer role. I speak English and Span
 | **Connect 4** | Playable game with logic separated from the DOM | JavaScript | [Live](https://lsnnov1.github.io/connect-4-refactored/) · [Code](https://github.com/Lsnnov1/connect-4-refactored) |
 | **Meme Generator** | Create memes from an image URL with your own text | JavaScript, HTML, CSS | [Live](https://lsnnov1.github.io/Meme-generator/) · [Code](https://github.com/Lsnnov1/Meme-generator) |
 
-The Food Trivia API runs on a free tier, so its first load can take up to a minute to wake up.
+
 
 ## Tech
 
